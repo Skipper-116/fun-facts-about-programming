@@ -1,6 +1,6 @@
 {
   "name": "fun-facts-about-programming",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "outputs fun facts about programming",
   "main": "index.js",
   "scripts": {
