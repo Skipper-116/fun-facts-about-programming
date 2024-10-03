@@ -34,28 +34,6 @@ console.log(getRandomFact());
 The first computer programmer was Ada Lovelace.
 ```
 
-## Testing Locally
-
-To test the package locally before publishing, you can create a simple script:
-
-```bash
-touch test.js
-```
-
-Then add the following content to `test.js`:
-
-```javascript
-const { getRandomFact } = require('./index');
-
-console.log(getRandomFact());
-```
-
-Run the test file:
-
-```bash
-node test.js
-```
-
 ## License
 
 This package is licensed under the MIT License.
